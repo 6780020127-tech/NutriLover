@@ -1,0 +1,7 @@
+{
+  "name": "NutriLover",
+  "description": "An AI-powered application that scans food menus to estimate calories and analyze the 5 main food groups (Protein, Carbs, Fats, Vitamins, Minerals).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
